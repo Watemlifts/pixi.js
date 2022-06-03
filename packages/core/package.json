@@ -33,7 +33,7 @@
     "@pixi/runner": "^5.0.4",
     "@pixi/settings": "^5.0.4",
     "@pixi/ticker": "^5.0.4",
-    "@pixi/utils": "^5.0.4"
+    "@pixi/utils": "^6.3.2"
   },
   "devDependencies": {
     "floss": "^2.2.0"
