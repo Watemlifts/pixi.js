@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "@pixi/constants": "^5.0.4",
-    "@pixi/display": "^5.0.4",
+    "@pixi/display": "^6.3.2",
     "@pixi/math": "^5.0.4",
     "@pixi/runner": "^5.0.4",
     "@pixi/settings": "^5.0.4",
