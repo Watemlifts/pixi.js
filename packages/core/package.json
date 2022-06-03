@@ -32,7 +32,7 @@
     "@pixi/math": "^5.0.4",
     "@pixi/runner": "^5.0.4",
     "@pixi/settings": "^5.0.4",
-    "@pixi/ticker": "^5.0.4",
+    "@pixi/ticker": "^6.3.2",
     "@pixi/utils": "^5.0.4"
   },
   "devDependencies": {
