@@ -32,7 +32,7 @@
     "@pixi/display": "^5.0.4",
     "@pixi/graphics": "^5.0.4",
     "@pixi/settings": "^5.0.4",
-    "@pixi/text": "^5.0.4",
+    "@pixi/text": "^6.3.2",
     "@pixi/ticker": "^5.0.4"
   },
   "devDependencies": {
