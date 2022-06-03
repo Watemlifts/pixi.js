@@ -30,7 +30,7 @@
   "dependencies": {
     "@pixi/core": "^5.0.4",
     "@pixi/display": "^5.0.4",
-    "@pixi/graphics": "^5.0.4",
+    "@pixi/graphics": "^6.3.2",
     "@pixi/settings": "^5.0.4",
     "@pixi/text": "^5.0.4",
     "@pixi/ticker": "^5.0.4"
