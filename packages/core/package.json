@@ -30,7 +30,7 @@
     "@pixi/constants": "^5.0.4",
     "@pixi/display": "^5.0.4",
     "@pixi/math": "^5.0.4",
-    "@pixi/runner": "^5.0.4",
+    "@pixi/runner": "^6.3.2",
     "@pixi/settings": "^5.0.4",
     "@pixi/ticker": "^5.0.4",
     "@pixi/utils": "^5.0.4"
