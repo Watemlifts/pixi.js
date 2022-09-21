@@ -27,7 +27,7 @@
     "dist"
   ],
   "dependencies": {
-    "@pixi/constants": "^5.0.4",
+    "@pixi/constants": "^6.3.2",
     "@pixi/display": "^5.0.4",
     "@pixi/math": "^5.0.4",
     "@pixi/runner": "^5.0.4",
